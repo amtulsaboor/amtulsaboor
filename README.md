@@ -153,9 +153,7 @@ With a strong engineering background and a passion for continuous learning, I en
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </a>
 
-<a href="tel:+91-9513023534">
-<img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phonepe&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Phone-%2B91%209513023534-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 
