@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Amtul Saboor</h1>
+<h1 align="center">Hi 👋🏻, I'm Amtul Saboor</h1>
 
 <h3 align="center">
 DevOps Engineer | AWS Cloud Engineer 
 </h3>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/62653d2c-ee20-4522-9ceb-707e37db19eb" alt="Amtul Saboor" width="180"/>
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+Engineer;AWS+Cloud+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Specialist;Linux+Administrator;Cloud+Native+Technology+Enthusiast" />
 </p>
 
 <p align="center">
-Building scalable cloud infrastructure ☁️ | Automating deployments ⚙️ | Driving operational excellence 🚀
+Building scalable cloud infrastructure  | Automating deployments | Driving operational excellence 
 </p>
 
 ---
@@ -89,21 +93,18 @@ With a strong engineering background and a passion for continuous learning, I en
 
 
 ---
+## 📊 GitHub Stats
 
-## 📊 GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LondheShubham153&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LondheShubham153&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amtulsaboor&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amtulsaboorE&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amtulsaboor&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LondheShubham153&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
 
 ---
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -160,4 +161,8 @@ With a strong engineering background and a passion for continuous learning, I en
 
 <h3 align="center">
 ⭐ Building reliable systems, automating workflows, and continuously learning.
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=amtulsaboor&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/amtulsaboor?label=Follow&style=social)](https://github.com/amtulsaboor)
+
 </h3>
