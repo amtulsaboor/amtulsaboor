@@ -145,7 +145,7 @@ With a strong engineering background and a passion for continuous learning, I en
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://medium.com/@YOUR_MEDIUM_USERNAME" target="_blank">
+<a href="https://medium.com/@saboooorrrrrr" target="_blank">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
