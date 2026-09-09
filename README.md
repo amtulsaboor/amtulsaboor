@@ -5,7 +5,8 @@ DevOps Engineer | AWS Cloud Engineer
 </h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/62653d2c-ee20-4522-9ceb-707e37db19eb" alt="Amtul Saboor" width="180"/>
+  <img src="https://github.com/user-attachments/assets/aff07bd7-df70-4e51-8fa1-1c270dd2b255" width="180" alt="redcoat" />
+
 </p>
 
 <p align="center">
