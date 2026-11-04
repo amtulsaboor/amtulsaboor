@@ -23,7 +23,7 @@ View my Portfolio - https://amtulsaboor.github.io/Portfolio/
 
 ## 👨‍💻 About Me
 
-I am a DevOps Engineer with 4+ years of experience in designing, automating, and optimizing cloud infrastructure and deployment workflows. My expertise lies in building scalable CI/CD pipelines, containerizing applications, managing Kubernetes environments, and implementing Infrastructure as Code using Terraform.
+I am a DevOps Engineer with 5+ years of experience in designing, automating, and optimizing cloud infrastructure and deployment workflows. My expertise lies in building scalable CI/CD pipelines, containerizing applications, managing Kubernetes environments, and implementing Infrastructure as Code using Terraform.
 
 I have hands-on experience with AWS cloud services, Linux administration, Docker, Kubernetes, Jenkins, Prometheus, Grafana, Git, GitHub, and automation tools that help accelerate software delivery while ensuring reliability, scalability, and security.
 
